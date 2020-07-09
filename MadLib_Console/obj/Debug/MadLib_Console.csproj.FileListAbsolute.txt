@@ -1,0 +1,10 @@
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\bin\Debug\MadLib_Console.exe.config
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\bin\Debug\MadLib_Console.exe
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\bin\Debug\MadLib_Console.pdb
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\obj\Debug\MadLib_Console.csprojAssemblyReference.cache
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\obj\Debug\MadLib_Console.csproj.CoreCompileInputs.cache
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\obj\Debug\MadLib_Console.exe
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\obj\Debug\MadLib_Console.pdb
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\bin\Debug\Words.dll
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\bin\Debug\Words.pdb
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\MadLib_Console\obj\Debug\MadLib_Console.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\Words\bin\Debug\Words.dll
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\Words\bin\Debug\Words.pdb
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\Words\obj\Debug\Words.csproj.CoreCompileInputs.cache
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\Words\obj\Debug\Words.dll
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\Words\obj\Debug\Words.pdb
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\PairProgram_Madlib\Words\obj\Debug\Words.csprojAssemblyReference.cache
