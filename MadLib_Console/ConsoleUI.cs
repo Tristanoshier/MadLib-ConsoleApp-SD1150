@@ -36,6 +36,7 @@ namespace MadLib_Console
                 }
                 else
                 {
+                   
                     Questions();
                     Story();
                     Outro();
